@@ -1,6 +1,6 @@
 # IT313 Core Components
 
-Welcome to the repository for **IT313**, containing core components and application modules developed by Adriane Canoy.
+Welcome to the repository for **IT313**, containing core components and application modules developed by Danica Acojedo.
 
 ## 🚀 About the Project
 
